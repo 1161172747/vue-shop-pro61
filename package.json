@@ -2,7 +2,7 @@
   "name": "vue-shop-pro",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "huangjing <1161172747@qq.com>",
+  "author": "sunshuhua <shuhua141@163.com>",
   "private": true,
   "scripts": {
     "line": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
