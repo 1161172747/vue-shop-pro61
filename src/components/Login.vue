@@ -31,8 +31,8 @@ export default {
   data() {
     return {
       loginFrom: {
-        username: '',
-        password: ''
+        username: 'admin',
+        password: '123456'
       },
       rules: {
         username: [
